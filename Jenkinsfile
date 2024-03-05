@@ -1,2 +1,3 @@
 Pipeline {
+    agent any 
 }
